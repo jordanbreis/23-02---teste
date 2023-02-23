@@ -1,0 +1,1 @@
+mongodb+srv://jordan:<teste123>@cluster0.nrk6gm2.mongodb.net/?retryWrites=true&w=majority
